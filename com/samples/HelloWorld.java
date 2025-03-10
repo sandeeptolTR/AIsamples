@@ -1,4 +1,4 @@
-package com.example.lambda;
+package com.samples;
 
 public class HelloWorld {
     public static void main(String[] args) {
